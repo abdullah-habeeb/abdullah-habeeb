@@ -13,6 +13,23 @@
 </p>
 
 ---
+<!-- ========================= -->
+<!--        QUOTE SECTION       -->
+<!-- ========================= -->
+<hr>
+
+<h3 align="left">✨ Random Dev Quote</h3>
+
+<p align="center">
+  <img 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" 
+    alt="Random Dev Quote" 
+  />
+</p>
+
+<hr>
+
+---
 
 <!-- ========================= -->
 <!--        QUICK INTRO        -->
@@ -52,11 +69,74 @@
 <!--        TECH STACK         -->
 <!-- ========================= -->
 
+<hr>
+
 <h3 align="left">🛠 Languages & Tools</h3>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,c,html,css,react,nodejs,mysql,mongodb,firebase,aws,docker,git,figma&theme=dark" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" />
+      <br>Node.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" />
+      <br>Figma
+    </td>
+  </tr>
+</table>
+
+<hr>
 
 ---
 
@@ -77,19 +157,55 @@
 <!--       FEATURED PROJECTS   -->
 <!-- ========================= -->
 
+<hr>
+
 <h3 align="left">🚀 Featured Projects</h3>
 
-🔹 <b><a href="https://github.com/abdullah-habeeb/subscription-tracker" target="_blank">Subscription Tracker with Automated Email Reminders</a></b>  
-Full-stack application using Firebase Authentication, Firestore, and Cloud Functions.  
-Implements automated email reminders via SendGrid, real-time data sync, and spending analytics dashboards.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>📬 Subscription Tracker</h4>
+      <p>
+        Full-stack application using Firebase Authentication, Firestore, and Cloud Functions.
+        Automated email reminders via SendGrid with real-time sync and analytics dashboards.
+      </p>
+      <p>
+        🔗 <a href="https://github.com/abdullah-habeeb/subscription-tracker" target="_blank">
+          View Repository
+        </a>
+      </p>
+    </td>
 
-🔹 <b><a href="https://github.com/abdullah-habeeb/ciphercare" target="_blank">CipherCare – Privacy-Preserving Federated Learning for Healthcare AI</a></b>  
-Federated learning platform enabling collaborative AI training across hospitals without sharing raw patient data.  
-Focuses on data privacy, distributed model aggregation, and compliance-aware healthcare AI workflows.
+    <td width="33%" valign="top">
+      <h4>🔐 CipherCare</h4>
+      <p>
+        Privacy-preserving federated learning platform for healthcare AI.
+        Enables collaborative model training across hospitals without sharing raw patient data.
+      </p>
+      <p>
+        🔗 <a href="https://github.com/abdullah-habeeb/ciphercare" target="_blank">
+          View Repository
+        </a>
+      </p>
+    </td>
 
-🔹 <b><a href="https://github.com/abdullah-habeeb/pothole" target="_blank">Pothole Detection Using Dashcams</a></b>  
-Computer vision–based system to detect road potholes using dashcam footage.  
-Designed to assist in smart city infrastructure monitoring and road safety analysis.
+    <td width="33%" valign="top">
+      <h4>🛣 Pothole Detection</h4>
+      <p>
+        Computer vision system using dashcam footage to detect road potholes.
+        Designed for smart city infrastructure monitoring and road safety analysis.
+      </p>
+      <p>
+        🔗 <a href="https://github.com/abdullah-habeeb/pothole" target="_blank">
+          View Repository
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<hr>
+
 
 ---
 
