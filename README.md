@@ -161,50 +161,48 @@
 
 <h3 align="left">🚀 Featured Projects</h3>
 
-<table>
+<table width="100%">
   <tr>
     <td width="33%" valign="top">
-      <h4>📬 Subscription Tracker</h4>
-      <p>
-        Full-stack application using Firebase Authentication, Firestore, and Cloud Functions.
-        Automated email reminders via SendGrid with real-time sync and analytics dashboards.
-      </p>
-      <p>
-        🔗 <a href="https://github.com/abdullah-habeeb/subscription-tracker" target="_blank">
-          View Repository
-        </a>
-      </p>
-    </td>
 
-    <td width="33%" valign="top">
-      <h4>🔐 CipherCare</h4>
-      <p>
-        Privacy-preserving federated learning platform for healthcare AI.
-        Enables collaborative model training across hospitals without sharing raw patient data.
-      </p>
-      <p>
-        🔗 <a href="https://github.com/abdullah-habeeb/ciphercare" target="_blank">
-          View Repository
-        </a>
-      </p>
-    </td>
+### 🔐 CipherCare
+<sub><i>Privacy-Preserving Healthcare AI</i></sub>
 
-    <td width="33%" valign="top">
-      <h4>🛣 Pothole Detection</h4>
-      <p>
-        Computer vision system using dashcam footage to detect road potholes.
-        Designed for smart city infrastructure monitoring and road safety analysis.
-      </p>
-      <p>
-        🔗 <a href="https://github.com/abdullah-habeeb/pothole" target="_blank">
-          View Repository
-        </a>
-      </p>
-    </td>
+Healthcare AI struggles to scale because sensitive patient data cannot be freely shared.  
+CipherCare makes collaborative AI training possible **without exposing raw data**, turning privacy-preserving AI from theory into practice.
+
+🔗 <a href="https://github.com/abdullah-habeeb/ciphercare" target="_blank">View Repository</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🛣️ Pothole Detection
+<sub><i>Automated Road Intelligence</i></sub>
+
+Manual road inspections don’t scale.  
+This system automatically detects potholes from dashcam footage and feeds them into a centralized pipeline — enabling faster response with **zero human intervention**.
+
+🔗 <a href="https://github.com/abdullah-habeeb/pothole" target="_blank">View Repository</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 📬 Subscription Tracker
+<sub><i>Proactive Financial Awareness</i></sub>
+
+Forgotten subscriptions silently drain money.  
+This project actively tracks recurring payments and alerts users *before* charges occur — converting passive expense tracking into **intentional financial control**.
+
+🔗 <a href="https://github.com/abdullah-habeeb/subscription-tracker" target="_blank">View Repository</a>
+
+</td>
   </tr>
 </table>
 
 <hr>
+
 
 
 ---
