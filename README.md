@@ -165,6 +165,17 @@
   <tr>
     <td width="33%" valign="top">
 
+### 📬 Renewly
+<sub><i>Automatic Subscription Tracker — Live</i></sub>
+
+Forgotten subscriptions silently drain money. Renewly reads Gmail (read-only) to detect recurring charges automatically, tracks true monthly/yearly cost, and emails a reminder before every renewal — built India-first around real bank-alert emails rather than a bank-API integration that doesn't cover Indian banks.
+
+🔗 <a href="https://subscription-hub-19cf9.web.app" target="_blank">Live Demo</a> · <a href="https://github.com/abdullah-habeeb/renewly-subscription-tracker" target="_blank">View Repository</a>
+
+</td>
+
+<td width="33%" valign="top">
+
 ### 🔐 CipherCare
 <sub><i>Privacy-Preserving Healthcare AI</i></sub>
 
@@ -184,18 +195,6 @@ Manual road inspections don’t scale.
 This system automatically detects potholes from dashcam footage and feeds them into a centralized pipeline — enabling faster response with **zero human intervention**.
 
 🔗 <a href="https://github.com/abdullah-habeeb/pothole" target="_blank">View Repository</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-### 📬 Subscription Tracker
-<sub><i>Proactive Financial Awareness</i></sub>
-
-Forgotten subscriptions silently drain money.  
-This project actively tracks recurring payments and alerts users *before* charges occur — converting passive expense tracking into **intentional financial control**.
-
-🔗 <a href="https://github.com/abdullah-habeeb/subscription-tracker" target="_blank">View Repository</a>
 
 </td>
   </tr>
