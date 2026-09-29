@@ -4,7 +4,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img src="./dark.svg" width="100%" alt="Abdullah Habeeb — End-to-End Software Engineer. B.E. Computer Science at BMSIT&amp;M, Bengaluru. Open to FDE, SDE and full-stack roles. Projects: Renewly, Auto-Remediation for Windows, IoT Defense.">
+    <img src="./dark.svg" width="100%" alt="Abdullah — End-to-End Software Engineer. B.E. Computer Science at BMSIT&amp;M, Bengaluru. Open to FDE, SDE and full-stack roles. Projects: Renewly, Auto-Remediation for Windows, IoT Defense.">
   </picture>
 </p>
 
